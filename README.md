@@ -9,4 +9,5 @@ Chimp3DWebControl.zip açık kaynak kodlu web arayüzüdür.
 BETA
 
 www.chimp3d.com
-mailto:info@chimp3d.com
+
+info@chimp3d.com
